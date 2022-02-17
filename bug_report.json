@@ -1,13 +1,17 @@
 {
-  "Summary": "asdasd",
-  "Project": "asdaas",
-  "Component": "wafaw",
+  "Summary": "Смещённая кнопка 'войти', в окне авторизации",
+  "Project": "Онлайн магазин abc",
+  "Component": "Кнопка 'войти'",
   "Version": "1.12.13",
-  "Severity": "Trivial",
-  "Priority": "low",
+  "Severity": "Major",
+  "Priority": "Medium",
   "Status": "open",
-  "Author": "I'M",
-  "Assigned To": "You",
-  "Description": "bla-bla-bla",
-  "Attachment": "file"
+  "Author": "Петяшев Андрей",
+  "Assigned To": "Владимир Лещенко",
+  "Description":
+  [
+	"Зайти на сайт abc.ru",
+	"Перейти в окно авторизации нажав кнопку 'войти'"
+  ],
+  "Attachment": "screenshot"
 }
